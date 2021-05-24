@@ -1,5 +1,5 @@
 {
   "namespace": "NAMESPACE",
   "collection_name": "COLLECTION_NAME",
-  "directory_name": "{{ cookiecutter.namespace }}.{{ cookiecutter.collection_name }}"
+  "directory_name": "{{ cookiecutter.namespace }}/{{ cookiecutter.collection_name }}"
 }
